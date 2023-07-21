@@ -1,10 +1,10 @@
 ---
-title: My fancy title
-date: '2021-01-31'
-tags: ['hello']
-draft: true
-summary:
+title: 나의 첫 게시글
+date: '2023-07-21'
+tags: ['jhchoi']
+draft: false
+summary: '나의 첫 게시글이다!'
 images: []
 ---
 
-Draft post which should not display
+과연 나는 잘 기록할수있을까
