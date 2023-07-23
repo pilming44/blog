@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'pilming44 Blog',
+  title: 'pilming44 | Wannabe Developer',
   author: 'Choi Jae Hyeon',
   headerTitle: 'Pilog',
   description: '개발자가 되기위한 기록',
