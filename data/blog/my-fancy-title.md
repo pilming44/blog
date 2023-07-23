@@ -2,8 +2,8 @@
 title: 나의 첫 게시글
 date: '2023-07-21'
 tags: ['jhchoi']
-draft: false
-summary: '나의 첫 게시글이다!'
+draft: true
+summary: '나의 첫 게시글이다! 과연'
 images: []
 ---
 
