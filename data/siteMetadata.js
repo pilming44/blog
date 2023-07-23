@@ -5,7 +5,7 @@ const siteMetadata = {
   description: '개발자가 되기위한 기록',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://blog-pilming44.vercel.app',
   siteRepo: 'https://github.com/pilming44/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
