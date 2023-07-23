@@ -6,10 +6,10 @@ const siteMetadata = {
   language: 'ko-KR',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/pilming44/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '',
+  socialBanner: '/static/img/twitter-card.png',
   email: 'pilming44@naver.com',
   github: 'https://github.com/pilming44',
   twitter: 'https://twitter.com/Twitter',
