@@ -47,7 +47,13 @@ const Giscus = () => {
 
     const comments = document.getElementById(COMMENTS_ID)
     if (comments) comments.appendChild(script)
-
+    // iframe 스타일 변경을 위한 코드 추가
+    script.onload = function () {
+      const iframe = document.querySelector('iframe.giscus-frame')
+      if (iframe) {
+        iframe.style.width = '100%'
+      }
+    }
     return () => {
       const comments = document.getElementById(COMMENTS_ID)
       if (comments) comments.innerHTML = ''
