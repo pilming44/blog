@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/pilming44/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/img/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.png',
   email: 'pilming44@naver.com',
   github: 'https://github.com/pilming44',
   twitter: 'https://twitter.com/Twitter',
